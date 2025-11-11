@@ -2,39 +2,111 @@
 
 ### Prompt Criado
 
-```
-✅ Prompt Final: Simulador de Avaliação Técnica com Foco em Desenvolvimento de Carreira
-Você é um mentor especializado em coaching de carreira profissional.
+# 🚀 Plano de Carreira: Especialista em Ciência de Dados
 
-🎯 Objetivo:
-Conduzir uma simulação estruturada para ajudar a pessoa a refletir sobre sua trajetória profissional, avaliar seu nível técnico atual e receber um diagnóstico personalizado com sugestões de desenvolvimento e um plano de carreira alinhado aos seus objetivos.
+## 🧩 Visão do Dia a Dia
+Como é o trabalho de um(a) Cientista de Dados:
+- Coletar e limpar dados de diversas fontes
+- Explorar dados para encontrar padrões e insights
+- Construir modelos estatísticos e de machine learning
+- Comunicar resultados por meio de visualizações e relatórios
+- Trabalhar com times de produto, engenharia e negócios
 
-📋 Princípios do processo:
-Faça apenas uma pergunta por vez, promovendo reflexão.
-Aguarde a resposta antes de prosseguir.
-Use linguagem acolhedora e motivadora.
-Após todas as perguntas, confirme com o usuário se deseja receber o diagnóstico e plano de carreira.
-Só gere o diagnóstico após confirmação explícita.
+## 🧠 Mapa de Skills
 
+**Core Skills:**
+- Programação em Python
+- Estatística e probabilidade
+- Manipulação e visualização de dados
 
-🧠 Sequência de perguntas (nessa ordem):
+**Nice-to-Have:**
+- Machine Learning supervisionado e não supervisionado
+- Comunicação de dados (Data Storytelling)
 
-CARREIRA DESEJADA E PROPÓSITO
-Pergunta: “Qual carreira você deseja desenvolver e o que te motiva a seguir por esse caminho?”
+**Ferramentas e Tecnologias:**
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn, Jupyter Notebook
+- SQL, Git, Power BI ou Tableau
 
-CONHECIMENTO TÉCNICO ATUAL
-Pergunta: “Quais são os principais conceitos técnicos que você já domina ou está estudando relacionados a essa carreira?”
+## 📅 Roadmap de 90 Dias
+**Adaptado para: 12 horas/semana**
 
-EXPERIÊNCIA PRÁTICA
-Pergunta: “Você já aplicou esses conhecimentos em projetos reais, estudos de caso ou simulações? Pode compartilhar algum exemplo?”
+### Mês 1 - Fundamentos
+**Semana 1-2:**
+- Aprender Python para análise de dados
+- Introdução à estatística e probabilidade
 
-FERRAMENTAS E TECNOLOGIAS
-Pergunta: “Quais ferramentas, linguagens, bibliotecas ou plataformas você já utilizou ou está aprendendo?”
+**Semana 3-4:**
+- Manipulação de dados com Pandas
+- Visualização com Matplotlib e Seaborn
 
-SOFT SKILLS E OBJETIVOS DE DESENVOLVIMENTO
-Pergunta: “Quais comportamentos, atitudes ou habilidades interpessoais você considera importantes para crescer nessa carreira? Há algo que você gostaria de melhorar?”
+### Mês 2 - Prática
+**Semana 5-6:**
+- Introdução ao Machine Learning com Scikit-learn
+- Modelos de regressão e classificação
 
+**Semana 7-8:**
+- Avaliação de modelos e métricas
+- Projeto prático com dados reais
 
-🟢 Início da simulação:
-"Olá! Vamos iniciar sua simulação de avaliação técnica com foco em desenvolvimento de carreira. Para começar: Qual carreira você deseja desenvolver e o que te motiva a seguir por esse caminho?"
-```
+### Mês 3 - Portfólio e Preparação
+**Semana 9-10:**
+- Construção de dashboards com Power BI ou Tableau
+- Documentação e apresentação de projetos
+
+**Semana 11-12:**
+- Simulação de entrevistas técnicas
+- Revisão geral e publicação do portfólio
+
+## 🚀 Projeto de Portfólio
+**Projeto:** Previsão de falhas em equipamentos industriais
+
+**O que fazer:**
+- Usar dados simulados ou reais de sensores e manutenção
+- Criar modelo preditivo de falhas com Machine Learning
+- Apresentar insights em dashboard interativo
+
+**Entregáveis:**
+- Notebook com análise exploratória e modelo
+- Dashboard com visualizações
+- Relatório técnico com conclusões
+
+**Critérios de Aceitação:**
+- Código limpo e comentado
+- Métricas de avaliação bem explicadas
+- Visualizações claras e funcionais
+
+**Dica:** Use dados públicos do Kaggle ou UCI Machine Learning Repository para começar.
+
+## 💬 Roteiro de Entrevistas
+
+**Pergunta 1:** O que é overfitting e como evitar?  
+**Como responder:** Explique que é quando o modelo aprende demais os dados de treino, perdendo generalização. Cite técnicas como regularização, validação cruzada e simplificação do modelo.
+
+**Pergunta 2:** Qual a diferença entre regressão linear e logística?  
+**Como responder:** Regressão linear prevê valores contínuos; logística prevê categorias binárias (0 ou 1).
+
+**Pergunta 3:** Como você lidaria com dados faltantes?  
+**Como responder:** Citar técnicas como imputação (média, mediana), exclusão de linhas ou uso de modelos que lidam com dados ausentes.
+
+**Pergunta 4:** Qual foi seu projeto mais interessante com dados?  
+**Como responder:** Apresente o projeto de falhas industriais, destacando problema, solução e impacto.
+
+**Pergunta 5:** Como você comunica resultados para quem não é técnico?  
+**Como responder:** Foco em visualizações claras, storytelling e conexão com objetivos de negócio.
+
+## 🎓 Trilha DIO Recomendada
+
+**Trilha:** Formação Cientista de Dados  
+**Por que essa trilha:** Cobre desde fundamentos de Python e estatística até Machine Learning e projetos práticos, alinhada ao seu plano de 90 dias.
+
+**Próximos passos:**
+1. Acesse dio.me
+2. Busque por "Formação Cientista de Dados"
+3. Inscreva-se gratuitamente
+4. Siga o cronograma junto com este roadmap
+
+---
+
+✨ Seu plano está pronto!  
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
